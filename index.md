@@ -2,15 +2,15 @@
 layout: page
 ---
 
-# About Me
+# BACKGROUD
 
 <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.
+Here is **JianGuo Zhao (赵建国)**.
 
-I am a senior undergrad majoring in EECS at Fuzhou University and Maynooth University (Combined degrees). Currently, I serve as a research assistant at the IIoT-Lab, advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu) and [Dr. Meng Yuan](https://www.researchgate.net/profile/Meng-Yuan-4). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at Cambridge University. Recently, I have been selected as an **AAAI UC Scholar**.
+I am currently a professor at the Department of Geophysics, China University of Petroleum (Beijing). I recived my bachelor’s and master’s degrees from **Jilin University** in 1998 and 2002, respectively, and a Ph.D. degree from **Tohoku University, Japan**. in 2006. I started my career at the Department of Geophysics in **China University of Petroleum, Beijing**. 
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *hanlin[dot]cai[at]ieee[dot]org*
+My research interests include seismic modeling, and computational electromagnetics as well.If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *jianguo.zhao@gmail.com*
 
 ## Academic Background
 
@@ -21,19 +21,21 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - **2017.6-2017.9 Visiting Professor,**University of Albert, Canada
 - **2024.5-2024.8 Visiting Professor,** Penn State University, United States
 - **2008-2009	Visiting Scientist,** Fuzhou University (BEng, EECS)
-- **1998-1999 Construction & Design Institute of Northeast Prospecting Corporation, ** Changchun, Jilin Province, China. Technician. Worked on Engineering prospecting and signal processing.
+- **1998-1999 Construction & Design Institute of Northeast Prospecting Corporation,** Changchun, Jilin Province, China. Technician. Worked on Engineering prospecting and signal processing.
 
 ---
 
 ## Research Interests
 
-- Internet of Everything
-- Cyber-Physical System
-- Industrial Informatics
-- Applied Machine Learning
-- [My latest research proposal (Dec 2023)](https://caihanlin.com/file/proposal-2023.pdf)🔗
+- Seismic wave modelling
+- Seismic rock physics, reservoir prediction, and fluid identification
+- Forward modeling and inversion of electromagnetic data
+- Borehole electromagnetic methods
+- GPR and borehole radar applications in petroleum and civil engineering
+- Artificial intelligence applications in geosciences and civil engineering
+- [My latest research proposal (Dec 2023)](https://caihanlin.com/file/proposal-2023.pdf)🔗111
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+My current research focuses on **Multi-band experimental and theoretical seismic rock physics for reservoir prediction and fluid identification**. My laboratory has developed systematic **measurement techniques to investigate the elastic properties of partially saturated rocks, from seismic frequency to ultrasonic range**. The multi-frequency measurement techniques provide great potential to clarify the features of wave dispersion and attenuation in reservoir rocks from seismic to ultrasonic frequencies, especially in the presence of fluid. Two devices involved in the direct low-frequency measurement techniques are differential acoustic resonance spectroscopy and stress-strain measurement system that are based on forced oscillation method. I wish to devote my talent to this meaningful cause and bring well-being to society.
 
 ---
 
