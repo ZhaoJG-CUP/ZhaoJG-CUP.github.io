@@ -4,35 +4,28 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-> Lastest Update: 20th May 2024 &nbsp; [中文版本 (Chinese Version)](https://caihanlin.com/file/awards-zh/)
+> Lastest Update: 25th June 2024 &nbsp; [中文版本 (Chinese Version)](https://caihanlin.com/file/awards-zh/)
 
-## Scholarships
+## Honors And Awards
 
-- Dec 2023：**AAAI-24 Undergraduate Scholarship** ($5000)<br>Only 18 undergraduates are selected around the world
-- May 2024：Shiran Innovation Sponsorship ($1400)<br>One of the highest research awards in my school
-- Aug 2023：FEPG Scholarship ($1400)<br>One of the highest undergraduate awards in my school
-- May 2023：XiamenAir Scholarship ($600)<br>
-- June 2024：Best Final Year Project Award of Maynooth (€500)
-- Oct 2023：Best Academic Performance of Maynooth (€100)
-- Oct 2022：Best Course Project Award of Maynooth (€100)
-- First Prize Scholarship of MIEC ($2100, **Four times**)<br>Combined degree scholarship between FZU and Maynooth<br>
+- 2023  “Technical Invention Award” of China Petroleum and Chemical Industry Association 
+- 2022  “Science and Technology Progress” Awards of China Petroleum and Chemical Industry Federation 
+- 2022  “Technical Invention Award” of China Petroleum and Chemical Industry Association  
+- 2021  “Outstanding reviewer” awards of the journal of “Science China Earth Sciences”
+- 2018  “Outstanding reviewer” awards of the journal of “Geophysical Journal International”
+- 2015   The sixth Guang-ding Liu geophysical youth awards
+- 2010  "Cultivation and Subsidy Program for Excellent Talents in Beijing" by Organization Department of CPC Beijing Committee
+- 2009  "Science and Technology New Star Program in Beijing" by Beijing Municipal Science and Technology Commission
+- 2009  "Youth Committee of Chinese National Committee of World Petroleum Congress (WPC)"
+- 2002  Japanese Government Scholarship
 
-## Competitions (Selected)
+## Projects (Selected)
 
-- Jan 2024：Finalist of China International College Students’ Innovation Competition (Top 3%)
-- Aug 2023：**<font color='red'>Best Technology Award</font>** in National Youth Science Innovation Project Competition (Top 1%)
-- Aug 2023：Second Prize in National Collegiate Internet of Things Technology and Application Competition (Top 5%)
-- June 2023：First Prize (Provincial championship) in Fujian Youth Science Innovation Project Competition (Top 3%)
-- May 2023：**<font color='red'>Finalist Award</font>** in Mathematical Contest In Modeling (Top 1% of all 20508 paper)
-- Nov 2022：First Prize (Provincial Level) in China Undergraduate Mathematical Contest in Modeling (Top 8%)
-- June 2022：**Championship** of 100-meter Freestyle Swimming Competition of Fuzhou University<br>
-
-## Services
-
-- Dec 2023 - Present：AAAI Student Membership
-- Sep 2022 - Present：IEEE Student Membership
-- Sep 2022 - Present：CAAI Student Membership
-- April 2022：Top 10 Best Volunteers (Only 10/30000) of Fuzhou University
-- Sep 2021 - Sep 2022：Deputy President of Volunteer Department, Youth League Committee of FZU
-- July 2021：Outstanding volunteer at the 44th session of the World Heritage Committee
-- April 2021：Outstanding volunteer at the 4th Digital China Summit<br>
+- 2021-2024  Study on multi-band seismic rock physical response mechanism in Yingqiong Basin characterized by ultra-high temperature and pressure, funded by by Natural Science Foundation of China (NSFC Major project), project manager
+- 2020-2023  Seismic wave dispersion imaging driven by multi-band experimental and theoretical study of rock physics, funded by by Natural Science Foundation of China (NSFC), project manager
+- 2016-2019	 Multi-band (from seismic to ultrasonic frequencies) laboratory techniques-based rock physics experiments and theoretical model studies on carbonate reservoir, funded by Natural Science Foundation of China (NSFC), project manager
+- 2013-2016	 Fully polarimetric borehole radar multi-polarization components-based joint full-waveform inversion in frequency domain and radar polarimetry analysis, funded by Natural Science Foundation of China (NSFC), project manager
+- 2011-2013  Study and application of low frequency seismic response characteristics in heterogenous reservior, funded by China National Petroleum Corporation(CNPC), vice project manager
+- 2007-2010 	Joint inversion and Interpretation of Gravity, Electromagnetic and Seismic data, funded by National High Technology Research and Development Program of China(863 program), vice project manager
+- 2007-2010 	A fully polarimetric borehole radar based forward modeling, inversion and radar polarimetry study, funded by Natural Science Foundation of China(NSFC), project manager
+- 2007-2010 	Polarimetric attribute analysis of fully polarimetric electromagnetic wavefield, funded by Ministry of Education, project manager<br>
