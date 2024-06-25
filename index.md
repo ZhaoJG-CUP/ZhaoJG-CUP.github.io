@@ -14,10 +14,14 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Academic Background
 
-- **Sep 2024 - Future：**Cambridge University (Incoming EE MPhil, supervised by [Prof. Ozgur B. Akan](https://ioe.eng.cam.ac.uk/directory/akan))
-- **Sep 2020 - June 2024:** Maynooth University (BSc, EECS)
-- **Sep 2020 - June 2024:** Fuzhou University (BEng, EECS)
-- **June 2022 - Nov 2022:** Cambridge University (Internship)
+- **2015-present Professor,**College of Geophysics and Information Engineering, China University of Petroleum – Beijing
+- **2006-2015	Associate Professor,**College of Geophysics and Information Engineering, China University of Petroleum – Beijing
+- **2008-2009	Visiting Scientist,**Colorado School of Mines, Golden, United States
+- **2008-2009	Visiting Scientist,**Stanford University, California, United States
+- **2017.6-2017.9 Visiting Professor,**University of Albert, Canada
+- **2024.5-2024.8 Visiting Professor,** Penn State University, United States
+- **2008-2009	Visiting Scientist,** Fuzhou University (BEng, EECS)
+- **1998-1999 Construction & Design Institute of Northeast Prospecting Corporation, ** Changchun, Jilin Province, China. Technician. Worked on Engineering prospecting and signal processing.
 
 ---
 
