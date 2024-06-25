@@ -4,7 +4,7 @@ layout: page
 
 # BACKGROUD
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+<img src="https://img.picui.cn/free/2024/06/25/667ad3a2d38ce.jpg" class="floatpic" width="360" height="480">
 
 Here is **JianGuo Zhao (赵建国)**.
 
