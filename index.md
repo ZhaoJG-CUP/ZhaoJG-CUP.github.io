@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# BACKGROUD
+# About Me
 
 <img src="https://img.picui.cn/free/2024/06/25/667ad3a2d38ce.jpg" class="floatpic" width="360" height="480">
 
