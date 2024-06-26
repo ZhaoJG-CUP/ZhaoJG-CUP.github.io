@@ -34,11 +34,12 @@ During undergraduate, my two roommates and I co-founded a tech group called Open
 
 ## Team Members
 
-- **Co-founders:** Hanlin Cai, Jiaqi Hu, Zheng Li
-- **Members @2020:** Linshi Li, Yuchen Fang, Shuying Liu, Xiang Fang, Jiankun Li, Xinguo Wang, Miaolan Zhou, Chaoyue Chen
-- **Members @2021:** Wenzhuo Fan, Jiacheng Huang, Xun Sun, Yujie Jiang, Zhongheng Sun, Yuxuan Zheng, Hongming Chen
-- **Members @2022:** Wenjing Chen, Roubing Yao, Yuxin Luo, Han Huang, Yang Lu, Jiali Su, Yanzhuo Gao, Yuzhuo Shi
-- **Members @2023:** [Join us!](https://fzuiot.site/english/)<br>
+- **Co-founders:** Jianguo Zhao, Jinsong Li
+- **Members @2020:** Zhi Li, Zengjia Xiao, Amany, Zhaoyang Zhao, Ming Ma, Bohong Yan, Yangyang Sun, Yu Zhang, Yi He, Maike Ye, Xiaohu Luo, Chuanbin Lu
+- **Members @2021:** Zhi Li, Zengjia Xiao, Amany, Zhaoyang Zhao, Ming Ma, Bohong Yan, Yangyang Sun, Yu Zhang, Yi He, Maike Ye, Xiaohu Luo, Chuanbin Lu
+- **Members @2022:** Zhi Li, Zengjia Xiao, Amany, Zhaoyang Zhao, Ming Ma, Bohong Yan, Yangyang Sun, Yu Zhang, Yi He, Maike Ye, Xiaohu Luo, Chuanbin Lu
+- **Members @2023:** Zengjia Xiao, Amany, Zhaoyang Zhao, Ming Ma, Bohong Yan, Yangyang Sun, Yu Zhang, Yi He, Maike Ye, Xiaohu Luo, Chuanbin Lu, Yuanyuan Ji, Yinglong Ma, Muye Li, Mingxi Li
+- **Members @2024:** [Join us!](https://fzuiot.site/english/)<br>
 
 ---
 
@@ -47,21 +48,21 @@ During undergraduate, my two roommates and I co-founded a tech group called Open
 > Our group website: [https://fzuiot.site/](https://fzuiot.site/)
 
 <div>
-<img src="https://caihanlin.com/images/teams/teams1.jpg">
+<img src="https://img.picui.cn/free/2024/06/26/667b62b3c1737.jpg">
 </div>
 <br>
 
 <div>
-<img src="https://caihanlin.com/images/teams/teams2.jpg">
+<img src="https://img.picui.cn/free/2024/06/26/667b62dd96c80.jpg">
 </div>
 <br>
 
 <div>
-<img src="https://caihanlin.com/images/teams/teams.jpg">
+<img src="https://img.picui.cn/free/2024/06/26/667b631af22ff.jpg">
 </div>
 <br>
 
 <div>
-<img src="https://caihanlin.com/images/teams/teams4.jpg">
+<img src="https://img.picui.cn/free/2024/06/26/667b63ddf006e.jpg">
 </div>
 <br>
